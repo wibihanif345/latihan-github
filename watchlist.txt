@@ -4,6 +4,7 @@ WATCHLIST MOVIE YANG AKAN DITONTON SEGERA:
 - Elvis
   > Genre: Genre: Biography, Drama, Musical
 - 12 Angry Men 
+  > Genre: Crime, Drama
 - Interstellar
   > Genre: Sci Fi, Adventure
 - The Age of Adeline
@@ -18,3 +19,4 @@ WATCHLIST ANIME YANG AKAN DITONTON SEGERA:
 - Coboy Beebop
   > Genre: Action
 - Chihayafuru
+  > Genre: Drama, Romance

@@ -11,7 +11,9 @@ WATCHLIST MOVIE YANG AKAN DITONTON SEGERA:
 
 WATCHLIST ANIME YANG AKAN DITONTON SEGERA: 
 - Fullmetal Aclhemist: Brotherhood
+  > Genre: Action, Adventure
 - Clannad
+  > Genre: Drama, Romance
 - Made in Abyss
 - Coboy Beebop
   > Genre: Action

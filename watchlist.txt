@@ -2,10 +2,12 @@ WATCHLIST MOVIE YANG AKAN DITONTON SEGERA:
 - Top Gun: Maverick
   > Genre: Drama, Action
 - Elvis
-  > Genre: Biography, Drama, Musical
+  > Genre: Genre: Biography, Drama, Musical
 - 12 Angry Men 
 - Interstellar
+  > Genre: Sci Fi, Adventure
 - The Age of Adeline
+  > Genre: Drama, Romance
 
 WATCHLIST ANIME YANG AKAN DITONTON SEGERA: 
 - Fullmetal Aclhemist: Brotherhood
@@ -14,4 +16,5 @@ WATCHLIST ANIME YANG AKAN DITONTON SEGERA:
   > Genre: Drama, Romance
 - Made in Abyss
 - Coboy Beebop
+  > Genre: Action
 - Chihayafuru
